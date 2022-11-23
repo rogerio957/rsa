@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/61d2b0bb-163a-43b7-9427-b3ceda732a5e" parent-code="" group-title="Lista de Canais", 007 Coleção
+http://api.magiaiptv.com/live/800349/713534/p1_007_Colecao
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd8bb9c7-3bfc-4ca2-8884-5116bcabf084" parent-code="" group-title="Lista de Canais", ABC NEWS (US)
+http://api.magiaiptv.com/live/800349/713534/m3_wVqC3dUDgmaqwuCK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" parent-code="" group-title="Lista de Canais", A&E
+http://api.magiaiptv.com/live/800349/713534/p1_ae
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" parent-code="" group-title="Lista de Canais", A&E+
+http://api.magiaiptv.com/live/800349/713534/p3_ae_265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/2f0e64c3-b429-4c32-87fa-362094a934ec" parent-code="" group-title="Lista de Canais", A FAZENDA
+http://api.magiaiptv.com/live/800349/713534/p3_afazenda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/74c4a5b6-566c-492c-a21c-544fe4692eb7" parent-code="" group-title="Lista de Canais", Agro HD
+http://api.magiaiptv.com/live/800349/713534/m2_fqENpMkneTxmancB_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/52fe6fbf-8cfd-41e8-9de4-977f6dfc25a5" parent-code="" group-title="Lista de Canais", AMC HD
+http://api.magiaiptv.com/live/800349/713534/m3_xRBGDPf12puWsC8kV6FAETN_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/755e01d0-77f4-4d03-9d79-808facb1db9d" parent-code="" group-title="Lista de Canais", Animal Planet HD
+http://api.magiaiptv.com/live/800349/713534/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/33da39ca-9cf6-49b1-a10e-ca827d45eeff" parent-code="" group-title="Lista de Canais", Animal Planet HD+
+http://api.magiaiptv.com/live/800349/713534/m1_ZJTh6oMdeOk_720p_2M
+
+
+https://raw.githubusercontent.com/rogerio957/peq/0be367abb7d0120b3dd0843d789deb60b708290b/pequeno.txt
